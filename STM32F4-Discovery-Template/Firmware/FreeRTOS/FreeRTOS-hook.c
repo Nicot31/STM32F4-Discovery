@@ -1,8 +1,10 @@
 #include "FreeRTOS.h"
 #include "task.h"
+#include "stm32f4xx_hal.h"
 
 void vApplicationTickHook( void )
 {
+    HAL_IncTick();
 }
 /*-----------------------------------------------------------*/
 
