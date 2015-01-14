@@ -69,8 +69,6 @@
 			<Add directory=".\inc" />
 			<Add directory=".\src" />
 			<Add directory=".\cmsis" />
-			<Add directory=".\SPL\inc" />
-			<Add directory=".\SPL\src" />
 		</Compiler>
 		<Linker>
 			<Add option="-eb_start_files" />
