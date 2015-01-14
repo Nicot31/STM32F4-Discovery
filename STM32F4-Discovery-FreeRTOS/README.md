@@ -14,7 +14,7 @@ Copy the "STM32F4-Discovery-Template" in the Windows AppData directory for em::B
 
 ```Batchfile 
 
-xcopy /S /I STM32F4-Discovery-Template %APPDATA%\EmBlocks\2.00\UserTemplates\STM32F4-Discovery
+xcopy /S /I STM32F4-Discovery-FreeRTOS %APPDATA%\EmBlocks\2.00\UserTemplates\STM32F4-Discovery-FreeRTOS
 
 ```
 
