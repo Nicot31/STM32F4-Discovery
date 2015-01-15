@@ -28,3 +28,5 @@ xcopy /S /I STM32F4-Discovery-xxxx %APPDATA%\EmBlocks\2.00\UserTemplates\STM32F4
 
 To create a new project in em::Blocks, use the "File / New / From template..." menu and select the new template. 
 Then enter the target directory and the project name.
+
+For global information on the STM32F4-Discovery usage with em::Blocks IDE, have a look on my site: http://www.nicot31.fr
