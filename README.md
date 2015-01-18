@@ -15,11 +15,6 @@ STM32F4-Discovery-HAL contains:
 - STM32F4xx HAL Driver (the STM32CubeF4 new hardware abstraction layers)
 - Specific configuration for the STM32F4-Discovery board.
 
-## Code examples
-Example of COM port emulation with the USB OTG:
-- USB OTG emulates a new COM port and echo all incoming characters
-
-
 ### Installation of the em::Blocks template
 
 Copy the "STM32F4-Discovery-xxx" in the Windows AppData directory for em::Blocks
@@ -34,3 +29,9 @@ To create a new project in em::Blocks, use the "File / New / From template..." m
 Then enter the target directory and the project name.
 
 For global information on the STM32F4-Discovery usage with em::Blocks IDE, have a look on my site: http://www.nicot31.fr
+
+
+## Code examples
+Example of COM port emulation with the USB OTG:
+- USB OTG emulates a new COM port and echo all incoming characters
+
