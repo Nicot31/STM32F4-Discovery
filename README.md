@@ -15,6 +15,10 @@ STM32F4-Discovery-HAL contains:
 - STM32F4xx HAL Driver (the STM32CubeF4 new hardware abstraction layers)
 - Specific configuration for the STM32F4-Discovery board.
 
+## Code examples
+Example of COM port emulation with the USB OTG:
+- USB OTG emulates a new COM port and echo all incoming characters
+
 
 ### Installation of the em::Blocks template
 
